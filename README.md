@@ -1,2 +1,2 @@
 # NewOne
-These are some changes
+Changes to readme
